@@ -1,2 +1,1 @@
-# HTML-CSS
- Projetos com foco em HTML e CSS
+Projetos feitos por conta própria com intuito de melhorar desenvolvimento de HTML e CSS.

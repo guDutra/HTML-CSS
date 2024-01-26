@@ -1,0 +1,46 @@
+div {
+
+
+    margin: auto;
+    background-color: lightgray;
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+    
+    border-radius: 0px;
+    border-color: black;
+    
+    outline-width: 4px;
+    outline-style: groove;
+}
+
+body {
+
+    background-color: lightyellow;
+}
+
+div > label {
+
+
+    margin: 10px;
+    padding: 10px;
+
+
+}
+
+div > input {
+
+
+    margin: 10px;
+    padding: 10px;
+    height: 8px;
+    width: 100px;
+
+}
+
+div > output {
+
+
+    text-align: center;
+    margin: auto;
+}

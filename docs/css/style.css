@@ -29,7 +29,7 @@ input:focus {
 }
 
 #register-banner {
-    background: url('../image/image.jpg');
+    background: url('../image/imageimage.jpg');
     background-size: cover;
     background-position: center;
     width: 50%;
@@ -41,7 +41,7 @@ input:focus {
     padding: 2rem;
     height: 100%;
     align-items: center;
-   
+
 }
 
 #register-banner h1 {
@@ -117,8 +117,9 @@ input:focus {
     margin-bottom: 0.5rem;
 }
 
-#register-form input[type="submit"], #generate-options button, 
-#copy-password{
+#register-form input[type="submit"],
+#generate-options button,
+#copy-password {
     background-color: #81d340;
     columns: #FFF;
     opacity: .8;
@@ -142,9 +143,9 @@ input:focus {
 }
 
 #generate-options .form-control {
-   flex-direction: row;
-   justify-content: space-between;
-   align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
 }
 
 #generate-options label {
